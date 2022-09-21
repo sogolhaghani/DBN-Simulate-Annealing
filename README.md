@@ -1,1 +1,1 @@
-# DBN-Simulate-Annealing
+# DBN-Simulated-Annealing
