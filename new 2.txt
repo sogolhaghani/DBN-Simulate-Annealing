@@ -1,0 +1,258 @@
+Size of the test dataset= 60000 
+Pretraining a Deep Belief Network. 
+Pretraining Layer 1 with RBM: 784-500 
+epoch 1
+epoch    1 error 4557980.0  
+epoch 2
+epoch    2 error 3039384.0  
+epoch 3
+epoch    3 error 2647346.0  
+
+Pretraining Layer 2 with RBM: 500-1000 
+Size of the training dataset= 60000 
+Size of the test dataset= 60000 
+epoch 1
+epoch    1 error 5819650.0  
+epoch 2
+epoch    2 error 3573614.0  
+epoch 3
+epoch    3 error 2775981.0  
+epoch 4
+epoch    4 error 2218665.0  
+epoch 5
+epoch    5 error 1828442.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 816 out of 10000 
+epoch 6
+epoch    6 error 1765523.0  
+epoch 7
+epoch    7 error 1636857.0  
+epoch 8
+epoch    8 error 1563402.0  
+epoch 9
+epoch    9 error 1545004.0  
+epoch 10
+epoch   10 error 1530035.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 632 out of 10000 
+epoch 11
+epoch   11 error 1524810.0  
+epoch 12
+epoch   12 error 1516435.0  
+epoch 13
+epoch   13 error 1517751.0  
+epoch 14
+epoch   14 error 1518159.0  
+epoch 15
+epoch   15 error 1519657.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 643 out of 10000 
+>> demo_1
+Converting Raw files into Matlab format 
+Size of the training dataset= 60000 
+Size of the test dataset= 60000 
+Pretraining a Deep Belief Network. 
+Pretraining Layer 1 with RBM: 784-500 
+epoch 1
+epoch    1 error 4576557.0  
+epoch 2
+epoch    2 error 3086692.0  
+epoch 3
+epoch    3 error 2717140.0  
+
+Pretraining Layer 2 with RBM: 500-1000 
+Size of the training dataset= 60000 
+Size of the test dataset= 60000 
+epoch 1
+epoch    1 error 6444454.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 944 out of 10000 
+epoch 2
+epoch    2 error 4830840.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 720 out of 10000 
+epoch 3
+epoch    3 error 4558193.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 609 out of 10000 
+epoch 4
+epoch    4 error 4437402.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 550 out of 10000 
+epoch 5
+epoch    5 error 4365722.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 514 out of 10000 
+epoch 6
+epoch    6 error 4520285.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 445 out of 10000 
+epoch 7
+epoch    7 error 4438870.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 383 out of 10000 
+>>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+>> demo_1
+Converting Raw files into Matlab format 
+Size of the training dataset= 60000 
+Size of the test dataset= 60000 
+Pretraining a Deep Belief Network. 
+Pretraining Layer 1 with RBM: 784-500 
+epoch 1
+epoch    1 error 4581462.0  
+epoch 2
+epoch    2 error 3096584.0  
+epoch 3
+epoch    3 error 2735184.0  
+
+Pretraining Layer 2 with RBM: 500-1000 
+Size of the training dataset= 60000 
+Size of the test dataset= 60000 
+epoch 1
+epoch    1 error 6313944.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 937 out of 10000 
+epoch 2
+epoch    2 error 4726127.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 694 out of 10000 
+epoch 3
+epoch    3 error 4483164.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 625 out of 10000 
+epoch 4
+epoch    4 error 4387607.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 533 out of 10000 
+epoch 5
+epoch    5 error 4338791.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 498 out of 10000 
+epoch 6
+epoch    6 error 4510354.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 400 out of 10000 
+epoch 7
+epoch    7 error 4457335.0  
+1 10
+1 10000
+2 10000
+2 10
+3 10000
+3 10
+4 10
+4 10000
+Number of misclassified test examples: 345 out of 10000 
+>> 
